@@ -1,6 +1,6 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
+<p align="center">
+<img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif">
+</p>
 
 <p align="center"> 
   Visitor count<br>
@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Swapnil Sanghvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://vibeforgenz.lk/wp-content/uploads/2021/11/ApprehensiveDrearyCaimanlizard-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 - 🌱 I’m currently learning **Front End Development**
 
 - 👨‍💻 All of my projects are available at [https://swapnilsanghvi.com](https://swapnilsanghvi.com)
