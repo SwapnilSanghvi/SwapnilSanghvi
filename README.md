@@ -43,7 +43,6 @@
   <img src="https://profile-counter.glitch.me/SwapnilSanghvi/count.svg" />
 </h4>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnilSanghvi&show_icons=true&theme=transparent)
 
 <br>
 
