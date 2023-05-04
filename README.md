@@ -19,7 +19,7 @@
 <h2 align="left">My Skills:</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,html,css,js,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,html,css,js,bootstrap,jquery,tailwind" />
   </a>
 </p>
 <!-- Tools  & Technology-->
