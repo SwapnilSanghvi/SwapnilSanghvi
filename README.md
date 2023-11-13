@@ -19,21 +19,21 @@
 <h2 align="left">My Skills:</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,html,css,js,bootstrap,jquery,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,bootstrap,jquery,tailwind,sass,nodejs,express,mysql" />
   </a>
 </p>
 <!-- Tools  & Technology-->
 <h2 align="left">Tools & Technology :</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,figma,xd,linux,nginx,cloudflare,firebase,netlify" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,xd,linux,nginx,cloudflare,firebase,netlify,replit" />
   </a>
 </p>
 <!-- Plan to learn  -->
 <h2 align="left">Plan to learn</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,regex,react,mongodb,nodejs" />
+    <img src="https://skillicons.dev/icons?i=ts,regex,react,mongodb," />
   </a>
 </p>
 <hr>
@@ -42,7 +42,6 @@
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/SwapnilSanghvi/count.svg" />
 </h4>
-
 
 <br>
 
