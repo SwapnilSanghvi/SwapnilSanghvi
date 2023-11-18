@@ -19,7 +19,7 @@
 <h2 align="left">My Skills:</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,html,css,js,bootstrap,jquery,tailwind,sass,nodejs,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=md,html,css,js,bootstrap,jquery,tailwind,sass,nodejs,express,mysql,mongodb" />
   </a>
 </p>
 <!-- Tools  & Technology-->
@@ -33,7 +33,7 @@
 <h2 align="left">Plan to learn</h2>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,regex,react,mongodb," />
+    <img src="https://skillicons.dev/icons?i=ts,regex,react" />
   </a>
 </p>
 <hr>
