@@ -48,7 +48,4 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=SwapnilSanghvi&theme=dark)](https://git.io/streak-stats)
 
 <br>
-
-![Swapnil's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SwapnilSanghvi&custom_title=Swapnil's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
-
-<br>
+<a href="https://github.com/SwapnilSanghvi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilSanghvi&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
